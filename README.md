@@ -1,0 +1,5 @@
+# SQLiteDB![Screenshot_20220717-154530_SQliteCRUD](https://user-images.githubusercontent.com/58545112/179417892-7c16ac93-2bc8-4298-94f9-2fa5e86a6e9b.jpg)
+![Screenshot_20220717-154550_SQliteCRUD](https://user-images.githubusercontent.com/58545112/179417894-433e8f03-f0b1-4213-943c-cf4df4b74edb.jpg)
+![Screenshot_20220717-154646_SQliteCRUD](https://user-images.githubusercontent.com/58545112/179417896-751ce52a-5ec8-4f62-8d48-2211ea7b5992.jpg)
+![Screenshot_20220717-154501_SQliteCRUD](https://user-images.githubusercontent.com/58545112/179417897-98ce922c-35eb-4bd8-a38f-420bc1e61aca.jpg)
+![Screenshot_20220717-154522_SQliteCRUD](https://user-images.githubusercontent.com/58545112/179417898-9b7ea54d-cc3e-4f29-895a-229ad161d4fd.jpg)
